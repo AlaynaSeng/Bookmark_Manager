@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    padding-top: 50px;
+}
+
+#name, #username, #password, #user, #pass, #sname, #url{
+    width: 500px;
+    height: 50px;
+    border-radius: 5px;
+}
+
+#create, #login, #submit{
+    width: 250px;
+    font-size: larger;
+}
+
+#log{
+    color: rgb(0, 64, 255);
+}
+
+#dis{
+    background-color: lightsteelblue;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: left;
+}
+
+#sn{
+    font-size: x-large;
+}
